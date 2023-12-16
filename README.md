@@ -11,7 +11,7 @@ Picture
 Bronze Level -  Basic Understanding:
 Completing these questions students will receive a maximum of 60% to demonstrate a basic understanding of the objectives
 1.       If you take out a loan for a fixed amount of time, what should your payments be? The answer is complicated by the fact you are charged interest so you can’t just divide the amount of the loan to be repaid over the amount of time. Fortunately, there is a formula for calculating the payments of a loan.  
-Picture
+[Contribution guidelines for this project](/bronze-outcomes.jpg)
  Write a program that accepts p(principle) ,r (interest rate),n( number of payments per year) and outputs the amount to be paid each month. The first two values are positive integers, the third is a value between 0 and 1. Use the JOptionPane boxes for input and output. The first dialogue box should contain a description of the program. Each dialogue box and input box should have appropriate titles, icons, grammar and spelling. Your program should follow the coding standards for comments, identifier names and indentation. Round dollar amounts to 2 decimals. (8 marks) 
 Picture
 Silver Level - Good Understanding:
