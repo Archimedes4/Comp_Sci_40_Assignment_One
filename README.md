@@ -6,7 +6,8 @@ Students will learn the variables and math operations/ functions in Java.  Stude
 Manitoba Curricular Outcomes: \
 SLO 3.1.1 : Develop skills and strategies for independent learning. \
 SLO 4.2.2: Identify and use appropriate data types. \
-SLO 4.2.3: Obtain and validate input from the program user. \
+SLO 4.2.3: Obtain and validate input from the program user.
+ 
 ---
 ![Bronze Outcomes](/bronze-outcomes.jpg)
 Bronze Level -  Basic Understanding:
